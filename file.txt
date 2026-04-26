@@ -1,0 +1,2 @@
+Hello World is written in write mode
+Hello World is written in append mode
